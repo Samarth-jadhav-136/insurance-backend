@@ -16,4 +16,4 @@ This backend is the core engine of the **AI Insurance Assistant App**. It allows
 
 ---
 
-## 🏗️ Architecture
+
